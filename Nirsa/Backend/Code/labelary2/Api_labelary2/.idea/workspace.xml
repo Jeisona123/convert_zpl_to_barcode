@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b9670a41-739e-4b4c-b8ec-f94b54829d61" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nirsa/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nirsa/ZplToPdfConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Api_zsdk/zsdk-api/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Api_zsdk/zsdk-api/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../labelary/Api_labelary/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../labelary/Api_labelary/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Img/output.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Img/output.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Pdf/out.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Pdf/out.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Pdf/output.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Pdf/output.pdf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +24,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
@@ -37,20 +35,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.ZplToPdfConverter.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Proyectos_software/Nirsa/Backend/Code/labelary2/Api_labelary2/src/main/java/com/nirsa/Main.java&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ZplToPdfConverter.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Proyectos_software/Nirsa/Backend/Code/labelary2/Api_labelary2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Proyectos_software/Nirsa/Backend/Code/labelary2/Api_labelary2/src/main/java/com/nirsa/Main.java",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="ZplToPdfConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.nirsa.ZplToPdfConverter" />
@@ -89,6 +88,7 @@
       <updated>1723678388436</updated>
       <workItem from="1723678389539" duration="3167000" />
       <workItem from="1723926244069" duration="24000" />
+      <workItem from="1724183307136" duration="795000" />
     </task>
     <servers />
   </component>
